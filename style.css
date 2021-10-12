@@ -1,0 +1,100 @@
+*{
+    margin: 0px;
+    padding:0px
+}
+main{
+    background-color:#FADE8B ;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section{
+    width: 80vw;
+    height: 80vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+aside{
+    background-color: #62306D;
+    width: 50vw;
+    height: 70vh;
+    border: azure 2px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin: 20px;
+}
+.base{
+    /*border-radius: 50% 50% 0% 0%;
+    width: 15vw;
+    height: 30vh;*/
+    width: 7vw;
+    height: 18vh;
+}
+.zeminSekiler{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: #62306D;
+    justify-content:center ;
+    align-items: center;
+    align-content: center;
+    width: 25vw;
+    height: 50vh;
+}
+#ikinciKutu {
+    border-radius: 50% 50% 0% 0%;
+    background-color: #F7EC7D;
+}
+#dorduncuKutu {
+    border-radius: 0% 0% 50% 50%;
+    background-color: #F7EC7D;
+}
+#altinciKutu {
+    border-radius: 0% 0% 50% 50%;
+    background-color: #F7EC7D;
+    
+}
+
+
+.ortaZemin{
+    display: flex;
+    flex-wrap: wrap;
+    width: 14vw;
+    justify-content: center;
+    align-items: center;
+   
+}
+.solUst{
+    background-color: #51b5a9;
+    width: 7vw;
+    height: 14vh;
+    border-radius: 100% 0% 0% 0%;
+
+}
+.sagUst{
+    background-color: #fade8b;
+    width: 7vw;
+    height: 14vh;
+    border-radius: 0% 100% 0% 0%;
+}
+.solAlt{
+    background-color: #f7f3d7;
+    width: 7vw;
+    height: 14vh;
+    border-radius: 0% 0% 0% 100%;
+}
+.sagAlt{
+    background-color: #e3516e;
+    width: 7vw;
+    height: 14vh;
+    border-radius: 0% 0% 100% 0%;
+}
+.ikinciAside{
+    background-color:#e3516e; 
+}
