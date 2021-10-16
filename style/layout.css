@@ -1,0 +1,23 @@
+main{
+    background-color:#FADE8B ;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+aside{
+    margin: 1vw;
+}
+
+
+.base{
+    width: 7vw;
+    height: 18vh;
+}

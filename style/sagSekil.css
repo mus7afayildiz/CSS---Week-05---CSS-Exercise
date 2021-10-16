@@ -1,0 +1,59 @@
+/*Sag sekil*/
+.ucuncuAside{
+    background-color: #191210;   
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    width: 30vw;
+    height: 30vh;
+    
+}
+.ucuncuAsideBase{
+    background-color: #191210;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30vw;
+}
+.sol{
+    display: flex;
+    flex-direction: row;
+    float: left;
+}
+.solSariDaire{
+    margin-top: 7vh;
+    margin-right: -3vh;
+    border-bottom: #eca03d 3vh solid;
+    border-left: #eca03d 3vh solid;
+    border-right: #eca03d 3vh solid;
+    border-radius: 0 0 9vw 9vw;
+    height: 3vh;
+    width: 6vw;
+
+}
+.ortaDaireDisi{
+    background-color: #eca03d;
+    border: #eca03d 3vw solid;
+    border-radius: 100%;
+
+}
+
+.ortaSariDaire{
+    background-color: #84271c;
+    border: #191210 3vw solid;
+    border-radius: 100%;
+    width:6vw;
+    height:6vw;
+    
+}
+
+.sagSariDaire{
+    margin-bottom: 8vh;
+    margin-left: -3vh;
+    border-top: #eca03d 3vh solid;
+    border-left: #eca03d 3vh solid;
+    border-right: #eca03d 3vh solid;
+    border-radius:10vh 10vh 0% 0%;
+    height: 3vh;
+    width: 6vw;
+}
