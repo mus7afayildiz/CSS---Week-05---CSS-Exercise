@@ -1,4 +1,5 @@
 /*orta sekil*/
+
 .ikinciAside{
     background-color:#e3516e; 
     display: flex;
@@ -7,33 +8,36 @@
     width: 30vw;
     height: 60vh;
 }
+
 .ortaZemin{
     display: flex;
     flex-wrap: wrap;
     width: 14vw;
     justify-content: center;
     align-items: center;
-   
 }
+
 .solUst{
     background-color: #51b5a9;
     width: 7vw;
     height: 14vh;
     border-radius: 100% 0% 0% 0%;
-
 }
+
 .sagUst{
     background-color: #fade8b;
     width: 7vw;
     height: 14vh;
     border-radius: 0% 100% 0% 0%;
 }
+
 .solAlt{
     background-color: #f7f3d7;
     width: 7vw;
     height: 14vh;
     border-radius: 0% 0% 0% 100%;
 }
+
 .sagAlt{
     background-color: #e3516e;
     width: 7vw;

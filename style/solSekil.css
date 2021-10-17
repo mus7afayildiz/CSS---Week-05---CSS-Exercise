@@ -1,7 +1,4 @@
 /*sol sekil*/
-.birinciAside{
-    flex-grow: 1;    
-}
 
 .zeminSekiler{
     display: flex;
@@ -14,16 +11,18 @@
     width: 25vw;
     height: 60vh;
 }
+
 #ikinciKutu {
     border-radius: 50% 50% 0% 0%;
     background-color: #F7EC7D;
 }
+
 #dorduncuKutu {
     border-radius: 0% 0% 50% 50%;
     background-color: #F7EC7D;
 }
+
 #altinciKutu {
     border-radius: 0% 0% 50% 50%;
     background-color: #F7EC7D;
-    
 }

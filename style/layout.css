@@ -6,16 +6,16 @@ main{
     justify-content: center;
     align-items: center;
 }
+
 section{
     display: flex;
     justify-content: center;
     align-items: center;
-    
 }
+
 aside{
     margin: 1vw;
 }
-
 
 .base{
     width: 7vw;
